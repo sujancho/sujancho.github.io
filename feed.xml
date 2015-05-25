@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susan Cho</title>
+    <description>Hello! I'm Susan Cho. I am an interdisciplinary design leader. My skills include user experience, front-end development and design operations.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Episode Interactive</title>
+        <description>&lt;h3 id=&quot;what-is-it&quot;&gt;What is it&lt;/h3&gt;
+
+&lt;p&gt;Episode is an &lt;strong&gt;interactive story-telling platform&lt;/strong&gt; for mobile. It was the first of it’s kind, combining gameplay and narrative on mobile to create a new form of story-telling.&lt;/p&gt;
+
+&lt;p&gt;The platform includes a writer’s portal where anyone can sign up to write their own stories and publish them to Episode readers worldwide.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;why-i-joined&quot;&gt;Why I joined&lt;/h3&gt;
+
+&lt;p&gt;Episode was not just a game, it was also a product and a service. I wanted to tackle a larger project working on a &lt;strong&gt;complex product system&lt;/strong&gt; with multiple fronts.&lt;/p&gt;
+
+&lt;p&gt;I could continue to develop as a &lt;strong&gt;design leader&lt;/strong&gt; at Pocket Gems by introducing and refining  the design process I established on Wild Beyond.&lt;/p&gt;
+
+&lt;p&gt;Episode leadership was interested into adapting user research with their current development process. Combined with a strong relationship with their community, I had a great opportunity to hone my &lt;strong&gt;user research&lt;/strong&gt; skill set.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I joined as Lead Designer on a newly established R&amp;amp;D team focused on re-envisioning the core Episode experience.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-i-accomplished&quot;&gt;What I accomplished&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Our team designed, prototyped, and piloted 2 game systems that enhanced the core Episode experience while creating long-term goals and progression for our readers. While both systems positively impacted retention and engagement, one was chosen to be implemented in Episode’s top story with minimal cost and resulted in a 10-15% boost in revenue.&lt;/li&gt;
+  &lt;li&gt;Defined and established a formal design process for the Episode team, incorporating cross-disciplinary feedback. Onboarded, trained and mentored 1 junior designer and 1 senior designer.&lt;/li&gt;
+  &lt;li&gt;Established User Research as part of the product development process with adaptations to Episode’s unique needs. Managed, conducted, presented learnings, identified next steps, trained Episode team and designers in process.&lt;/li&gt;
+  &lt;li&gt;During this time I also lead a cross-studio team responsible for improving diversity and inclusion at Pocket Gems.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Bite-sized Research&lt;/strong&gt; &lt;br /&gt;
+We were able to quickly gain robust insight on key questions by utilizing multiple qualitative and quantitative datasets. We did this by running multiple small tests with a variety of methods (onsite interviews, remote user tests, surveys, a/b testing) in parallel.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sat, 01 Jun 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/episode</link>
+        <guid isPermaLink="true">http://localhost:4000/episode</guid>
+      </item>
+    
+      <item>
+        <title>Wild Beyond</title>
+        <description>&lt;h3 id=&quot;what-is-it&quot;&gt;What is it&lt;/h3&gt;
+
+&lt;p&gt;Wild Beyond is a free-to-play real time strategy (RTS) game with the visual quality and strategic gameplay depth of a console game in a mobile-first package.&lt;/p&gt;
+
+&lt;p&gt;Pocket Gems aimed to create their next successful franchise by satisfying the wants of Console &amp;amp; PC Gamers 17-35 looking for deep gameplay on the go.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Featured “Game of the Day” on Apple App Store (11/24/2018)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;why-i-joined&quot;&gt;Why I joined&lt;/h3&gt;
+
+&lt;p&gt;Wild Beyond represented a &lt;strong&gt;new direction&lt;/strong&gt; for Pocket Gems, and I was excited to work on a game that I was wanted to play myself.&lt;/p&gt;
+
+&lt;p&gt;It was also a huge opportunity for &lt;strong&gt;personal growth&lt;/strong&gt;, to be on the ground floor and contribute to a product development cycle from concept to launch.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As UX lead, I grew and managed the UX team responsible for the game’s user experience over a 4 year development cycle and worldwide launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;major-challenges&quot;&gt;Major Challenges&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As a team we struggled between prioritizing between 2 audiences; balancing depth and strategy for core gamers versus learnability and usability with mainstream mobile audience&lt;/li&gt;
+  &lt;li&gt;A Major competitor launched when we were mid-development which disrupted our product strategy and led to a major internal game design pivot.&lt;/li&gt;
+  &lt;li&gt;We worked with a new in-house 3D engine that was being developed in tandem with our game. Game rendering required learning and managing multiple tech stacks (iOS native, Cocos2D, Cocos3D, HTML/CSS/Angular).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-i-accomplished&quot;&gt;What I accomplished&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Grew the design team as project scaled; including hiring, onboarding, and training
+Implemented and managed the pipeline for multiple designers across pods through a successful worldwide launch.&lt;/li&gt;
+  &lt;li&gt;Designed several features that produced measurable increase in early retention and conversion&lt;/li&gt;
+  &lt;li&gt;Collaborated with engineering to define and create a component based UI framework which reduced UI implementation time by ~30% and improved overall quality and consistency.&lt;/li&gt;
+  &lt;li&gt;Implemented and managed the pipeline for multiple designers across pods.&lt;/li&gt;
+  &lt;li&gt;Established internal UX processes; contributions include process and pipeline creation for visual design, design, and development&lt;/li&gt;
+  &lt;li&gt;Co-authored the company’s UX career track, established the company’s first cross-studio design meetings, and cultivated team culture through collaborative training, presentations, and team events.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Consistent Quality&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Commit fully to redesigns&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Letting go&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Tue, 01 Jul 2014 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/wild-beyond</link>
+        <guid isPermaLink="true">http://localhost:4000/wild-beyond</guid>
+      </item>
+    
+      <item>
+        <title>Night at the Museum</title>
+        <description>&lt;h3 id=&quot;what-is-it&quot;&gt;What is it&lt;/h3&gt;
+
+&lt;p&gt;Night at the Museum: Hidden Treasures is a spin-off of Pocket Gem’s Secret Passages where fans can continue exploring the world of the Night at the Museum franchise through a casual game experience.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;why-i-joined&quot;&gt;Why I joined&lt;/h3&gt;
+
+&lt;p&gt;Night at the Museum was Pocket Gem’s first experiment with a franchised title. The shortened timeline, small team, and a high level of autonomy was the perfect environment for me to test and &lt;strong&gt;hone my design skills&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was also a great opportunity for me to develop my &lt;strong&gt;visual design process&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As senior designer I was responsible for executing on all aspects of the game’s interface.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-i-accomplished&quot;&gt;What I accomplished&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work with the Art Director to concept and product the visual design of the game interface&lt;/li&gt;
+  &lt;li&gt;Design, wireframe, and implement UX improvements to key user flows&lt;/li&gt;
+  &lt;li&gt;Design and execution was completed on an accelerated timeline.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Get Your Audience&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn the Language&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 01 Jul 2012 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/night-at-the-museum</link>
+        <guid isPermaLink="true">http://localhost:4000/night-at-the-museum</guid>
+      </item>
+    
+  </channel>
+</rss>
