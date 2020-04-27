@@ -1276,12 +1276,12 @@ a.card {
   .error-text .button-primary {
     width: 12rem; }
 
-.error-page button,
-.error-page .button-primary {
+.page-not-found button,
+.page-not-found .button-primary {
   background: #FF6EED;
   background: linear-gradient(160deg, #FF6EED, #BC66FF); }
-  .error-page button:before,
-  .error-page .button-primary:before {
+  .page-not-found button:before,
+  .page-not-found .button-primary:before {
     background: #BC66FF;
     background: linear-gradient(160deg, #BC66FF, #FF6EED); }
 
