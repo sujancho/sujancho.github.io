@@ -1,0 +1,1959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rand",
+				"randomNumber\t(random.liquid)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 2020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.scss",
+			"settings":
+			{
+				"buffer_size": 947,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 2382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_media-queries.scss",
+			"settings":
+			{
+				"buffer_size": 2150,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_device.scss",
+			"settings":
+			{
+				"buffer_size": 2151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/_posts/2012-07-01-night-at-the-museum.md",
+			"settings":
+			{
+				"buffer_size": 1534,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle:  \"Wild Beyond\"\ncompany:  \"Pocket Gems\"\nimg: wb_2\nsummary: |\n   Real time strategy (RTS) game\nplatform: \"Mobile iOS\"\nrole: |\n  product vision, strategy, cross-disciplinary collaboration, user research, usability testing, storyboarding, prototyping, design operations, mentorship\ndevice:\n  enabled: no\n  orientation: landscape\n  color: black\n  type: url\n  content: https://drive.google.com/file/d/1caWbuSjxkokWxnOBf1ZYCTOklw_iHcBk/preview\n  caption: |\n    Night at the Museum: Hidden Treasures is a spin-off of Pocket Gem’s Secret Passages where fans can continue exploring the world of the Night at the Museum franchise through a casual game experience.\n---\n\n### What is it\n\nWild Beyond is a free-to-play real time strategy (RTS) game with the visual quality and strategic gameplay depth of a console game in a mobile-first package.\n\nPocket Gems aimed to create their next successful franchise by satisfying the wants of Console & PC Gamers 17-35 looking for deep gameplay on the go.\n\n> Featured \"Game of the Day\" on Apple App Store (11/24/2018)\n\n***\n\n### Why I joined\n\nWild Beyond represented a **new direction** for Pocket Gems, and I was excited to work on a game that I was wanted to play myself.\n\nIt was also a huge opportunity for **personal growth**, to be on the ground floor and contribute to a product development cycle from concept to launch.\n\n***\n\n> As UX lead, I grew and managed the UX team responsible for the game’s user experience over a 4 year development cycle and worldwide launch.\n\n***\n\n### Major Challenges\n\n* As a team we struggled between prioritizing between 2 audiences; balancing depth and strategy for core gamers versus learnability and usability with mainstream mobile audience\n* A Major competitor launched when we were mid-development which disrupted our product strategy and led to a major internal game design pivot.\n* We worked with a new in-house 3D engine that was being developed in tandem with our game. Game rendering required learning and managing multiple tech stacks (iOS native, Cocos2D, Cocos3D, HTML/CSS/Angular).\n\n\n***\n\n### What I accomplished\n\n* Grew the design team as project scaled; including hiring, onboarding, and training\nImplemented and managed the pipeline for multiple designers across pods through a successful worldwide launch.\n* Designed several features that produced measurable increase in early retention and conversion\n* Collaborated with engineering to define and create a component based UI framework which reduced UI implementation time by ~30% and improved overall quality and consistency.\n* Implemented and managed the pipeline for multiple designers across pods.\n* Established internal UX processes; contributions include process and pipeline creation for visual design, design, and development\n* Co-authored the company’s UX career track, established the company’s first cross-studio design meetings, and cultivated team culture through collaborative training, presentations, and team events.\n\n***\n\n### What I learned\n**Consistent Quality** <br>\n**Commit fully to redesigns** <br>\n**Letting go** <br>\n\n***\n",
+			"file": "work/_posts/2014-07-01-wild-beyond.md",
+			"file_size": 3097,
+			"file_write_time": 132330578056321405,
+			"settings":
+			{
+				"buffer_size": 3088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "work/_posts/2019-06-01-episode.md",
+			"settings":
+			{
+				"buffer_size": 2672,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 2200,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nWhat is it\n\nWhy I joined\n\nThe Result\n\nHow did I accomplish these things\n\nWhat I learned & discovered",
+			"settings":
+			{
+				"buffer_size": 101,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"color",
+				"Preferences: Color Highlight Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Format CSS: Expanded"
+			],
+			[
+				"format",
+				"Format CSS: Compact"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"pgrade/Overwrite All Packages",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"ANF: Copy Current File"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cho/Documents/sujancho.github.io_src",
+		"/Users/cho/Documents/sujancho.github.io_src/_data",
+		"/Users/cho/Documents/sujancho.github.io_src/_ignore",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/device",
+		"/Users/cho/Documents/sujancho.github.io_src/_layouts",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass",
+		"/Users/cho/Documents/sujancho.github.io_src/css",
+		"/Users/cho/Documents/sujancho.github.io_src/work",
+		"/Users/cho/Documents/sujancho.github.io_src/work/_posts"
+	],
+	"file_history":
+	[
+		"/Users/cho/Documents/sujancho.github.io_src/_ignore/notes.md",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_posts.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/work/_posts/2019-06-01-episode.md",
+		"/Users/cho/Documents/sujancho.github.io_src/work/_posts/2012-07-01-night-at-the-museum.md",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_device.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_media-queries.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_config.yml",
+		"/Users/cho/Documents/sujancho.github.io_src/404.html",
+		"/Users/cho/Documents/sujancho.github.io_src/work/_posts/2014-07-01-wild-beyond.md",
+		"/Users/cho/Documents/sujancho.github.io_src/_layouts/post.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/device/iphone8_before.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/device/iphone8_after.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_variables.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_layout.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/css/style.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/about.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_header.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/head.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/footer.html",
+		"/Users/cho/Documents/sujancho.github.io_src/index.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/device/device_iphone8.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/device_before.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/device_after.html",
+		"/Users/cho/Documents/sujancho.github.io_src/css/devices.min.css",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_footer.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_typography.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_links.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/header.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_layouts/default.html",
+		"/Users/cho/Documents/sujancho.github.io_src/.sass-cache/13edc2c34557a511599b41ae6fc5aa0930fe15d1/_404.scssc",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_404.scss",
+		"/Users/cho/Documents/sujancho.github.io_src/_site/css/style.css",
+		"/Users/cho/Documents/sujancho.github.io_src/_includes/pages_list.html",
+		"/Users/cho/Documents/sujancho.github.io_src/_data/cats.yaml",
+		"/Users/cho/Documents/sujancho.github.io_src/_data/alters.yaml",
+		"/Users/cho/Documents/sujancho.github.io_src/.gitignore",
+		"/Users/cho/Documents/sujancho.github.io_src/_sass/_base.scss",
+		"/Users/cho/Documents/sujancho.github.io/_config.yml",
+		"/Users/cho/Documents/sujancho.github.io_src/test/index.html",
+		"/Users/cho/Documents/sujancho.github.io_src/Gemfile",
+		"/Users/cho/Documents/sujancho.github.io_src/work:_posts/2012-07-01-night-at-the-museum.md",
+		"/Users/cho/.zshrc",
+		"/Users/cho/zshrc",
+		"/Users/cho/Documents/sujancho.github.io/.gitignore",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_posts.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_header.scss",
+		"/Users/cho/Documents/sujancho.github.io/_layouts/post.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_media-queries.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_layout.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_links.scss",
+		"/Users/cho/Documents/sujancho.github.io/scripts/site-scripts.js",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_variables.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_typography.scss",
+		"/Users/cho/Documents/sujancho.github.io/css/style.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_base.scss",
+		"/Users/cho/Documents/sujancho.github.io/_includes/head.html",
+		"/Users/cho/Documents/sujancho.github.io/_posts/2014-07-01-wild-beyond.md",
+		"/Users/cho/Documents/sujancho.github.io/_posts/2012-07-01-night-at-the-museum.md",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_utility.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_utility-typography.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_base-typography.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_base-forms.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_forms.scss",
+		"/Users/cho/Documents/sujancho.github.io/_posts/2019-06-01-episode.md",
+		"/Users/cho/Documents/sujancho.github.io/index.html",
+		"/Users/cho/Documents/sujancho.github.io/_layouts/default.html",
+		"/Users/cho/Documents/sujancho.github.io/about.html",
+		"/Users/cho/.gitconfig",
+		"/Users/cho/Documents/sujancho.github.io/_includes/text-intro.md",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_blockquotes.scss",
+		"/Users/cho/Documents/sujancho.github.io/_posts/2020-03-27-project3.md",
+		"/Users/cho/Documents/sujancho.github.io/_posts/2020-03-27-project1.md",
+		"/Users/cho/Documents/sujancho.github.io/_posts/2020-03-27-project2.md",
+		"/Users/cho/Documents/sujancho.github.io/_includes/button-primary.html",
+		"/Users/cho/Documents/sujancho.github.io/_includes/button-secondary-left.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_base-reset.scss",
+		"/Users/cho/Documents/sujancho.github.io/_layouts/page.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_custom_components.scss",
+		"/Users/cho/Documents/sujancho.github.io/_includes/_post_readtime.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_pagination.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_colors.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_footer.scss",
+		"/Users/cho/Documents/sujancho.github.io/404.md",
+		"/Users/cho/Documents/sujancho.github.io/_includes/card.html",
+		"/Users/cho/Documents/sujancho.github.io/about.md",
+		"/Users/cho/Documents/sujancho.github.io/work.html",
+		"/Users/cho/Documents/sujancho.github.io/_includes/footer.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_basscss.scss",
+		"/Users/cho/Documents/sujancho.github.io/_includes/button-secondary-right.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_buttons.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_colors.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_color-base.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_base-buttons.scss",
+		"/Users/cho/Documents/.zshrc",
+		"/Users/cho/Documents/sujancho.github.io/_includes/header.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_measure.scss",
+		"/Users/cho/Documents/sujancho.github.io/_includes/navigation.html",
+		"/Users/cho/Documents/sujancho.github.io/_sass/custom.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_code.scss",
+		"/Users/cho/Documents/sujancho.github.io/_site/css/style.css",
+		"/Users/cho/Dropbox/_personalbrand/website v1/public/css/fonts.css",
+		"/Users/cho/Dropbox/Notebooks-PG/Notes/NATM Icon List.md",
+		"/Users/cho/Documents/sujancho.github.io/_sass/_animations.scss",
+		"/Users/cho/Documents/sujancho.github.io/_sass/basscss/_colors-custom.scss",
+		"/Users/cho/Documents/sujancho.github.io/_layouts/center.html",
+		"/Users/cho/Documents/sujancho.github.io/Gemfile",
+		"/Users/cho/Downloads/pixyll-master/Rakefile",
+		"/Users/cho/Downloads/pixyll-master/appveyor.yml",
+		"/Users/cho/Downloads/pixyll-master/Gemfile",
+		"/Users/cho/Downloads/pixyll-master/feed.xml",
+		"/Users/cho/Documents/sujancho.github.io/index.md",
+		"/Users/cho/Documents/sujancho.github.io/_site/404.html",
+		"/Users/cho/Documents/sujancho.github.io/404.html",
+		"/Users/cho/Documents/sujancho.github.io/CNAME",
+		"/Users/cho/Documents/sujancho.github.io/_harp/_include-header.jade",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/assets/theme.js",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/free-shipping.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/product-collection.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/popup-cart.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/templates/cart.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/config/settings_schema.json",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/product-get-page-info.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/templates/product.collection.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/product-get-button-quick-view.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/product-wishlist.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/sections/popup.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/snippets/fixed-sidebar.liquid",
+		"/Users/cho/Documents/shopify/spl-shopify-theme/assets/theme.scss.liquid"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"/Users/cho/Documents/sujancho.github.io_src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"verification key",
+			"hr {",
+			"url(",
+			"footer",
+			"project-header_left",
+			"project-footer",
+			".project-navigation",
+			"home-header",
+			"header-font-family",
+			"baseurl",
+			"base",
+			"page.title",
+			".error-page",
+			"error-page",
+			"layout-class",
+			"pageclass",
+			"layout-class",
+			"blockquote",
+			"$pink-1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".page-not-found"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										206,
+										207
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										185,
+										186
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/_typography.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1194,
+										1195
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1083,
+										1084
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								475
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"SL.84.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1308,
+										1309
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1298,
+										1299
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/Liquid/Syntaxes/Liquid-HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 387.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_sass/_media-queries.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1667,
+								1667
+							]
+						],
+						"settings":
+						{
+							"SL.98.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1673,
+										1674
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1642,
+										1643
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 366.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_sass/_device.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+							"col_464646FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										63,
+										70
+									]
+								],
+								"scope": "col_464646FF"
+							},
+							"col_464646FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_464646FF_circle.png",
+								"regions":
+								[
+									[
+										48,
+										48
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D9DBDCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										39,
+										46
+									]
+								],
+								"scope": "col_D9DBDCFF"
+							},
+							"col_D9DBDCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D9DBDCFF_circle.png",
+								"regions":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F9E7D3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										14,
+										21
+									]
+								],
+								"scope": "col_F9E7D3FF"
+							},
+							"col_F9E7D3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F9E7D3FF_circle.png",
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								1288,
+								1288
+							]
+						],
+						"settings":
+						{
+							"SL.99.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1352,
+										1353
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1231,
+										1232
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "work/_posts/2012-07-01-night-at-the-museum.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"SL.102.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/Liquid/Syntaxes/Liquid-Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "work/_posts/2014-07-01-wild-beyond.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								685
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/Liquid/Syntaxes/Liquid-Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "work/_posts/2019-06-01-episode.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/Liquid/Syntaxes/Liquid-Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "_sass/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								450,
+								450
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										449,
+										450
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										373,
+										374
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"rainbow_inited": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1981.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": false,
+							"rainbow_inited": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"note",
+				"_ignore/notes.md"
+			],
+			[
+				"varia",
+				"_sass/_variables.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"vari",
+				"_sass/_variables.scss"
+			],
+			[
+				"var",
+				"_sass/_variables.scss"
+			],
+			[
+				"colo",
+				"_sass/_colors.scss"
+			],
+			[
+				"variabl",
+				"_sass/_variables.scss"
+			],
+			[
+				"button-quick",
+				"snippets/product-get-button-quick-view.liquid"
+			],
+			[
+				"lay",
+				"_sass/pages/_layout.scss"
+			],
+			[
+				"post",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"education",
+				"_includes/sections/education.html"
+			],
+			[
+				"care",
+				"_includes/sections/career.html"
+			],
+			[
+				"butt",
+				"_sass/components/_buttons.scss"
+			],
+			[
+				"foo",
+				"_includes/section-footer.html"
+			],
+			[
+				"postwor",
+				"_includes/post_work_listing.html"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"settin",
+				"config/settings_data.json"
+			],
+			[
+				"collection-g",
+				"snippets/collection-grid-item.liquid"
+			],
+			[
+				"collection-te",
+				"sections/collection-template.liquid"
+			],
+			[
+				"css",
+				"assets/theme.scss.liquid"
+			],
+			[
+				".css",
+				"assets/theme.scss.liquid"
+			],
+			[
+				"cart",
+				"sections/cart-template.liquid"
+			],
+			[
+				"collection",
+				"sections/collection-template.liquid"
+			],
+			[
+				"product",
+				"sections/product-template.liquid"
+			],
+			[
+				"gift",
+				"snippets/gift-wrapping.liquid"
+			],
+			[
+				"grid-",
+				"snippets/collection-grid-item.liquid"
+			],
+			[
+				"product-pr",
+				"snippets/product-price.liquid"
+			],
+			[
+				"product-",
+				"snippets/product-card-grid.liquid"
+			],
+			[
+				"setting",
+				"config/settings_data.json"
+			],
+			[
+				"produc",
+				"templates/product.liquid"
+			],
+			[
+				"collec",
+				"sections/collection.liquid"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
